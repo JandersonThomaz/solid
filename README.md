@@ -1,2 +1,2 @@
-# SOLID
-Palestra de SOLID.
+# PRINCÍPIOS SOLID
+Palestra sobre os princípios SOLID.
